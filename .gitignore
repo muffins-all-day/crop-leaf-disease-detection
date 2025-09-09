@@ -1,1 +1,10 @@
 __pycache__/.ipynb_checkpoints/data/models/.env
+# datasets
+data/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# notebook/colab caches
+*.ipynb_checkpoints/
